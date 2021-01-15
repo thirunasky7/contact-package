@@ -1,0 +1,19 @@
+{
+    "name": "netscalars/contact",
+    "description": "this will send contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thiru",
+            "email": "thirunasky7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "Netscalars\\Contact\\":"src/"
+        }
+    },
+}
